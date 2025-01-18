@@ -17,10 +17,10 @@ export default function Home() {
             Get started by editing{" "}
             <code className="bg-black/[.05] dark:bg-white/[.06] px-1 py-0.5 rounded font-semibold">
               src/app/page.tsx
-            </code>
+            </code>ddddddddddddddddddddddddddddddddddddddddddddddddddddddd
             .
           </li>
-          <li>Save and see your changes instantly.</li>
+          <li>Save and see your changes instantly.</li>asdfasdfasd
         </ol>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
